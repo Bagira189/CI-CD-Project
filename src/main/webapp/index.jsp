@@ -3,15 +3,15 @@
     <title>Sample App: success!</title>
 </head>
 <body style="text-align: center">
-<h1> Hi!!!!!!! </h1>
-<style>  
+<h1>Hi Paree!!!!!!!</h1>
+<style>
+h1 {
+  font-size: 600px;
+} 
 h2 {
-  font-size: 100px;
+  font-size: 120px;
 }  
 </style>        
-<h2> Kattappa! </h2>
-
-<h3> Good Evening! </h3>
-
+<h2>Good Evening Man!</h2>
 </body>
 </html>
