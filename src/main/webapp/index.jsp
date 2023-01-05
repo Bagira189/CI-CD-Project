@@ -6,7 +6,7 @@
 <h1>Hi Paree!!!!!!!</h1>
 <style>
 h1 {
-  font-size: 600px;
+  font-size: 60px;
 } 
 h2 {
   font-size: 120px;
