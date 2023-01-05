@@ -2,6 +2,7 @@
 <head>
     <title>Sample App: success!</title>
 </head>
+<style>    
 h2 {
   font-size: 100px;
 }
