@@ -13,6 +13,6 @@ h2 {
 }  
 </style>        
 <h2>Good Afternoon Man</h2>
-<h3>My Demo Page</h3>
+<h3>Demo Page</h3>
 </body>
 </html>
